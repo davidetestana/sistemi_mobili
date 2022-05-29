@@ -1,0 +1,82 @@
+{
+  "horses": [
+    {
+      "disciplina": "Ippica ( Galoppo )",
+      "nomeCavallo": "Secretariat",
+      "razza": "Purosangue Inglese",
+      "mantello": "Sauro",
+      "segniParticolari": "Stella e lista con 3 balzane",
+      "eta": "( 30/03/1970 - 04/10/1989 ) 19",
+      "altezzaAlGarrese": 168,
+      "sesso": "Stallone",
+      "carattere": "coraggioso, affidabile e affettuoso",
+      "record ": "Secretariat nel 1973 vinse la terza ed ultima gara della Triple Crown di ben 31 lunghezze ( più di 70 metri ) distanza tuttora imbattuta e stabilì anche il record di pista di 2:24:00 per un miglio e mezzo, record tuttora imbattuto per quella distanza. Secretariat vinse la sua ultima corsa, battendo gli altri cavalli di ben 12 lunghezze. Nella classifica dei 100 migliori cavalli da corsa americani del XX secolo è posizionato al 2° posto, nella sua carriera di corridore vinse un montepremi totale di 1.316.808 dollari vincendo 16 corse su un totale di 21 disputate. Il suo soprannome era 'Big Red' ( Grande Rosso ), per via del suo manto rossiccio. È stato il 9° Campione della USA Triple Crown of Thoroughbred Racing nel 1973, ha ricevuto il premio Cavallo dell'Anno USA nel 1972 nel quale è stato il terzo cavallo a vincerlo a soli 2 anni d'età anziché 3 e nel 1973. Nel 1974 entrò nella Hall of fame dei cavalli da corsa statunitensi. Nel 1999 il servizio postale degli Stati Uniti emise un francobollo di Secretariat del valore di 33 centesimi e fu il primo cavallo da corsa ad ottenere l'onore di apparire su un francobollo.",
+      "imageURL": "url"
+    },
+    {
+      "disciplina": "Ippica ( Trotto )",
+      "nomeCavallo": "Varenne",
+      "razza": "Trottatore Italiano",
+      "mantello": "Baio Oscuro",
+      "segniParticolari": "Stella",
+      "eta": "( 19/05/1995 - in vita ) 27",
+      "altezzaAlGarrese": 166,
+      "sesso": "Stallone",
+      "carattere": "molto docile e generoso",
+      "record ": "Varenne è un cavallo trottatore italiano, nel mondo dell’ippica è considerato il migliore trottatore di tutti i tempi e avendo  ottenuto vittorie in ogni parte del mondo, e totalizzato vincite per un totale di 6.035.665 €, è il cavallo che ha vinto di più nella storia del trotto a livello mondiale, diventando così il più ricco e vincente trottatore della storia, una leggenda del trotto che ha scritto pagine di storia difficili da dimenticare, soprattutto per i colori italiani. Varenne è l’unico cavallo nella storia dell’ippica mondiale ad aver vinto il titolo di “Cavallo dell’Anno” in tre differenti Stati. In Italia nel 2000, 2001, 2002, in Francia nel 2001 e 2002 e negli Stati Uniti nel 2001. È anche l’unico trottatore ad aver vinto le corse più importanti del mondo nello stesso anno (Grand Prix d’Amerique, G.P. Lotteria di Agnano, Elitloppet, Breeders Crown, 2001).",
+      "imageURL": "url"
+    },
+    {
+      "disciplina": "Salto Ostacoli",
+      "nomeCavallo": "Hickstead",
+      "razza": "Olandese a sangue caldo ( KWPN )",
+      "mantello": "Baio",
+      "segniParticolari": "",
+      "eta": "( 02/03/1996 - 06/11/2011 ) 15",
+      "altezzaAlGarrese": 163,
+      "sesso": "Stallone",
+      "carattere": "",
+      "record ": "",
+      "imageURL": "url"
+    },
+    {
+      "disciplina": "Salto Ostacoli",
+      "nomeCavallo": "Huaso",
+      "razza": "Purosangue Cileno",
+      "mantello": "Sauro",
+      "segniParticolari": "Stella",
+      "eta": "( ??/??/1933 - 24/08/1961 ) 28",
+      "altezzaAlGarrese": 168,
+      "sesso": "Stallone",
+      "carattere": "",
+      "record ": "",
+      "imageURL": "url"
+    },
+    {
+      "disciplina": "Dressage",
+      "nomeCavallo": "Totilas",
+      "razza": "Olandese a sangue caldo ( KWPN )",
+      "mantello": "Morello",
+      "segniParticolari": "Stella e taglio sul muso con 4 piccole balzane",
+      "eta": "( 23/05/2000 - 14/12/2020 ) 20",
+      "altezzaAlGarrese": 163,
+      "sesso": "Stallone",
+      "carattere": "",
+      "record ": "",
+      "imageURL": "url"
+    },
+    {
+      "disciplina": "Dressage",
+      "nomeCavallo": "Valegro",
+      "razza": "Olandese a sangue caldo ( KWPN )",
+      "mantello": "Baio Scuro",
+      "segniParticolari": "Lista con 4 piccole balzane",
+      "eta": "( // - in vita ) ",
+      "altezzaAlGarrese": 168,
+      "sesso": "Castrone",
+      "carattere": "",
+      "record ": "",
+      "imageURL": "url"
+    }
+  ]
+}
